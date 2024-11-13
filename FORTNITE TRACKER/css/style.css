@@ -1,0 +1,45 @@
+.logoFortnite{
+    max-width:  100px;
+}
+
+.titol-titol {
+    text-align: center;
+
+}
+
+.subtitol-titol {
+    text-align: center;
+
+}
+
+
+.idUsuario{
+    width: 700px;
+    min-height: 40px;
+    flex-direction: column;
+    margin: 30px 0;
+    align-items: center;
+    align-content: center;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.info{
+    margin-top: 5em;
+    text-align: center;
+    display: flex;
+    grid-template-columns: repeat(auto-fit, minmax (500px, 1fr));
+}
+
+h3{
+    width: 30%;
+}
+
+body{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+html{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
